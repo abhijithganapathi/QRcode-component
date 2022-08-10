@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background-color: #D5E1EF;
+  font-family: 'Roboto', sans-serif;
+}
+.qrcode{
+  width: 14.5rem;
+  border-radius: 8px;
+}
+h2{
+  width: 13rem;
+  font-size: 1.1rem;
+  margin: 15px auto 15px auto;
+  color: #172741;
+}
+p{
+  width: 13rem;
+  font-size: 0.8rem;
+  margin: auto;
+  padding-bottom: 20px;
+  color: #ADB0B7;
+}
+.container{
+  background-color: white;
+  width: 16rem;
+  margin: 150px auto 100px;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
